@@ -2,7 +2,7 @@
 <body>
 	<h2>User Data</h2>
 
-	<form action="read">
+	<form action="read" method="post">
 		
 		Name: <input type="text" placeholder="Enter Your Name" name="username" required><br>
 		Email: <input type="email" placeholder="Enter Your Email" name="useremail" required><br>
